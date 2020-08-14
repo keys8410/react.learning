@@ -1,8 +1,7 @@
 import React from 'react';
-import Header from './components/Header';
-import Footer from './components/Footer';
-import Button from './components/Form/Button';
-import Form from './components/Form/Form';
+import Header from './Components/Header';
+import Footer from './Components/Footer';
+import Form from './Components/Form/Form';
 
 const App = () => {
   return (
