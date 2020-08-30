@@ -1,6 +1,6 @@
 import React from 'react';
 import ReactDOM from 'react-dom';
-import App from './Checkbox_01';
+import App from './FormComponents';
 
 ReactDOM.render(
   <React.StrictMode>
