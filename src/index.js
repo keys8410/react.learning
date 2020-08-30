@@ -1,6 +1,6 @@
 import React from 'react';
 import ReactDOM from 'react-dom';
-import App from './Radio';
+import App from './Checkbox_01';
 
 ReactDOM.render(
   <React.StrictMode>
