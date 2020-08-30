@@ -1,6 +1,6 @@
 import React from 'react';
 import ReactDOM from 'react-dom';
-import App from './Select';
+import App from './Radio';
 
 ReactDOM.render(
   <React.StrictMode>
