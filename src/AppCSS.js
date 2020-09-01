@@ -1,6 +1,6 @@
 import React from 'react';
-import './Css/AppCSS.css';
-import Title from './Css/Title.js';
+import './Css-Import/AppCSS.css';
+import Title from './Css-Import/Title.js';
 
 const AppCSS = () => {
   return (
