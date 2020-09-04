@@ -1,0 +1,16 @@
+.titulo {
+  color: #c4c4c4;
+}
+
+.preco {
+  color: #451;
+  font-weight: bold;
+}
+
+.comprar {
+  transform: rotate(90deg) translateY(-120px);
+}
+/* NÃO UTILIZAR O HIFEN!!! 
+ * Ex/: precoTotal - OK!
+ * Ex/: preco-total - NOT OK!
+ */
