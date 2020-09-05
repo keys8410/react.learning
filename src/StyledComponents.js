@@ -6,11 +6,6 @@ const Titulo = styled.h1`
   color: tomato;
 `;
 
-const Paragrafo = styled.p`
-  font-size: 2rem;
-  color: green;
-`;
-
 const ProdutosContainer = styled.div`
   display: flex;
 `;
