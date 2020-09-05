@@ -10,7 +10,8 @@
 .comprar {
   transform: rotate(90deg) translateY(-120px);
 }
+
 /* NÃO UTILIZAR O HIFEN!!! 
- * Ex/: precoTotal - OK!
- * Ex/: preco-total - NOT OK!
+ * Ex.: precoTotal - OK!
+ * Ex.: preco-total - NOT OK!
  */
