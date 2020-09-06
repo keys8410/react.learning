@@ -1,6 +1,6 @@
 import React from 'react';
 import ReactDOM from 'react-dom';
-import App from './Animate_02';
+import App from './Imagens';
 
 // import 'bootstrap/dist/css/bootstrap.min.css';
 
