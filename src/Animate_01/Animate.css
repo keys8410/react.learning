@@ -1,0 +1,21 @@
+.animeLeft {
+  opacity: 0;
+  transform: translateX(-20px);
+  animation: animeLeft 0.35s forwards;
+}
+
+.animeLeft {
+  transform: scale(0.8);
+}
+
+.animeLeft {
+  transform: translateY(-20px);
+}
+
+@keyframes animeLeft {
+  /* from {} */
+  to {
+    opacity: initial;
+    transform: initial;
+  }
+}
