@@ -1,6 +1,6 @@
 import React from 'react';
 import ReactDOM from 'react-dom';
-import App from './DesafioRouter';
+import App from './PropTypes';
 
 // import 'bootstrap/dist/css/bootstrap.min.css';
 
