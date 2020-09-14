@@ -1,6 +1,6 @@
 import React from 'react';
 import ReactDOM from 'react-dom';
-import App from './PropTypes';
+import App from './LazySuspense';
 
 // import 'bootstrap/dist/css/bootstrap.min.css';
 
